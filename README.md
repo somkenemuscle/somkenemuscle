@@ -1,6 +1,6 @@
-# Ojukwu Somkene .I👋
+# Ojukwu Somkene .I 
 
-Hi there! I’m a software engineer from Nigeria with a passion for blending my technical expertise with design to create beautiful and efficient applications.
+Hi there! 👋 I’m a software engineer from Nigeria with a passion for blending my technical expertise with design to create beautiful and efficient applications.
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
@@ -8,7 +8,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world.
 
 
 
-## 🚀 Skills
+### Skills
 
 ### Languages & Frameworks
 

@@ -18,6 +18,8 @@ Outside of work, I’m dedicated to expanding my knowledge and staying current w
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
+
+-
  When I’m not coding, you can find me exploring my hobbies which include:
 
 - **Photography**: Capturing moments and landscapes.

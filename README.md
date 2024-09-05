@@ -1,7 +1,7 @@
 ### [Ojukwu Somkene Ifechukwu](https://somkene-ojukwu.vercel.app)
 
 
-Hi there! 👋 I’m a **`FullStack Sofware Engineer`** from Nigeria with a passion for blending technical expertise and design to create beautiful, efficient, and scalable applications.
+Hi there! 👋 I’m a **`FullStack Sofware Engineer`** based in Nigeria with a passion for blending my technical expertise and design to create beautiful, efficient, and scalable applications.
 
 I enjoy combining my technical skills with UI design to craft applications that are not only functional but also visually appealing.
 
@@ -20,9 +20,8 @@ Outside of work, I’m dedicated to expanding my knowledge and staying current w
 
 
 ---
- When I’m not coding, you can find me exploring my hobbies which include:
+ When I’m not coding, i am probably 🕺 ->
 
-- **Photography**: Capturing moments and landscapes.
-- **Traveling**: Discovering new cultures and cuisines.
-- **Reading**: Diving into both fiction and non-fiction books.
-
+- Engaging in various athletic activities.
+- Creating content and capturing interesting moments.
+- Watching and enjoying my favorite anime series.

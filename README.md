@@ -19,7 +19,7 @@ Outside of work, I’m dedicated to expanding my knowledge and staying current w
 </div>
 
 
--
+---
  When I’m not coding, you can find me exploring my hobbies which include:
 
 - **Photography**: Capturing moments and landscapes.

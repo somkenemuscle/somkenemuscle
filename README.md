@@ -20,7 +20,7 @@ Outside of work, I’m dedicated to expanding my knowledge and staying current w
 
 
 ---
- When I’m not coding 🕺, I am probably  :
+ **When I’m not coding 🕺, I am probably**  :
 
 - Engaging in various athletic activities.
 - Creating content and capturing interesting moments.

@@ -10,11 +10,35 @@ Outside of work, I’m dedicated to expanding my knowledge and staying current w
 ### Languages & Frameworks
 
 <div align="left">
+ ### Languages & Frameworks
+
+<div align="left">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2346A2F6.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234470A4.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+### Tools & Platforms
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
+---
+
+## 📫 Get in Touch With Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somkene-ojukwu/)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/somkeneOj)
+
 
 </div>
 

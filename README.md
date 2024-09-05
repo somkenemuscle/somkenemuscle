@@ -6,13 +6,10 @@ enjoy combining my technical skills with UI design to craft applications that ar
 
 Outside of work, I’m dedicated to expanding my knowledge and staying current with the latest tech trends.
 
-
-### Skills
-
 ### Languages & Frameworks
 
 <div align="left">
-   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2346A2F6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
@@ -31,14 +28,9 @@ Outside of work, I’m dedicated to expanding my knowledge and staying current w
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
-
 ---
 
 ## 📫 Get in Touch With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somkene-ojukwu/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/somkeneOj)
-
-
-
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somkene-ojukwu/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/somkeneOj)

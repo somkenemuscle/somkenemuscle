@@ -1,4 +1,4 @@
-# Ojukwu Somkene . I 
+### Ojukwu Somkene . I 
 
 Hi there! 👋 I’m a Fullstack software engineer from Nigeria with a passion for blending technical expertise and design to create beautiful, efficient, and scalable applications.
 

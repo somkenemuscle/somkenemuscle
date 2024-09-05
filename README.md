@@ -2,7 +2,7 @@
 
 Hi there! 👋 I’m a Fullstack software engineer from Nigeria with a passion for blending technical expertise and design to create beautiful, efficient, and scalable applications.
 
-enjoy combining my technical skills with UI design to craft applications that are not only functional but also visually appealing.
+I enjoy combining my technical skills with UI design to craft applications that are not only functional but also visually appealing.
 
 Outside of work, I’m dedicated to expanding my knowledge and staying current with the latest tech trends.
 

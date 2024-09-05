@@ -15,6 +15,7 @@ Outside of work, I’m dedicated to expanding my knowledge and staying current w
   <img src="https://img.shields.io/badge/TailwindCSS-%2346A2F6.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
 </div>
 
 

@@ -1,11 +1,12 @@
-# Hi, I'm [Your Name] 👋
+# Ojukwu Somkene .I👋
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+Hi there! I’m a software engineer from Nigeria with a passion for blending my technical expertise with design to create beautiful and efficient applications.
 
-I'm a passionate developer with a strong interest in web technologies and modern JavaScript frameworks. I love building innovative projects and constantly learning new skills. 
+I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
-Feel free to explore my repositories and reach out if you want to collaborate!
+Outside of work, I'm interested in furthering my knowledge in the tech world.
+
+
 
 ## 🚀 Skills
 
@@ -31,14 +32,6 @@ Feel free to explore my repositories and reach out if you want to collaborate!
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-## 🌱 What I'm Learning
-- GraphQL
-- Next.js Advanced Features
-- Backend with Node.js and Express
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 

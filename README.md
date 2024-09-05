@@ -1,4 +1,4 @@
-### [Ojukwu Somkene. I](https://somkene-ojukwu.vercel.app)
+### [Ojukwu Somkene. Ifechukwu](https://somkene-ojukwu.vercel.app)
 
 
 Hi there! 👋 I’m a **`FullStack Sofware Engineer`** from Nigeria with a passion for blending technical expertise and design to create beautiful, efficient, and scalable applications.

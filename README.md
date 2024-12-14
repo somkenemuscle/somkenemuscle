@@ -5,7 +5,7 @@ Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/
 I love building applications that are as functional as they are stylish, and I definitely don’t need coffee to make it happen :) , Outside of work, I am dedicated to expanding my knowledge and staying current with the latest tech trends (Currently looking into Web3)
 
 ---
- **`When I’m not coding, I am probably`**  :
+ **`When I’m not coding, I am probably ->`**
 
 - Engaging in something that has to deal with code.
 - Creating content , capturing interesting moments and definitely playing games

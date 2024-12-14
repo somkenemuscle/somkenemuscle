@@ -1,11 +1,8 @@
-### [Ojukwu Somkene Ifechukwu](https://somkene-ojukwu.vercel.app)
+### [Ojukwu Somkene](https://somkene-ojukwu.vercel.app)
 
+Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I am a **`FullStack Sofware Engineer`** based in Nigeria.
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I am a **`FullStack Sofware Engineer`** based in Nigeria.
-
-I love building applications that are as functional as they are stylish, and I definitely don’t need coffee to make it happen 😂
-
-Outside of work, I am dedicated to expanding my knowledge and staying current with the latest tech trends (Currently looking into Web3)
+I love building applications that are as functional as they are stylish, and I definitely don’t need coffee to make it happen :) , Outside of work, I am dedicated to expanding my knowledge and staying current with the latest tech trends (Currently looking into Web3)
 
 ---
  **`When I’m not coding, I am probably`**  :

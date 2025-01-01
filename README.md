@@ -1,13 +1,39 @@
-### [Ojukwu Somkene](https://somkene-ojukwu.vercel.app)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Somkene+;" />
+</h1>
 
-Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I am a **`FullStack Sofware Engineer`** based in Nigeria.
+<h3 align="center">Fullstack software developer</h3>
 
-I love building applications that are as functional as they are stylish, and I definitely don’t need coffee to make it happen :) 
-Outside of work, I am dedicated to expanding my knowledge and staying current with the tech world.
+<br/>
 
----
- **`When I'm not coding, I am probably ->`**
+<div align="center">
+Yep, this is me -> Full-stack developer ✨ by day, full-stack developer by night ✨
+  
+I code, I debug, and I’m always learning (and laughing at my own bugs).
 
-- Engaging in something that has to deal with code.
-- Creating content and definitely playing games
+Coffee fuels the code, but passion for tech drives it. Currently diving into Web3—because why not?
+
+ </div>
+ 
+<div align="center"> 
+    <a href="somkene-ojukwu.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:somkeneoj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/somkene-ojukwu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+</div>
+
+ <hr/>
+ 
+<h2 align="center">Technology Stack</h2>
+<br/>
+<div align="center">    
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,sql" width={100}/><br>
+</div>
+
 

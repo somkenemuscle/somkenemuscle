@@ -2,16 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Somkene+;" />
 </h1>
 
-<h3>Fullstack software developer</h3>
+<h4>Fullstack software developer</h4>
 
 
 <div>
-Yep, this is me , Full-stack developer ✨ by day, full-stack developer by night ✨
-  
-I code, I debug, and I’m always learning (and laughing at my own bugs).
+Yeppp!!!, this is me , full-stack developer ✨ by day, full-stack developer by night ✨
+I code, i debug, and i’m always learning (and laughing at my own bugs).
 
 Coffee fuels the code, but passion for tech drives it. Currently diving into Web3—because why not?
-
  </div>
  
 <div> 

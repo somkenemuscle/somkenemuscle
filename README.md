@@ -1,5 +1,5 @@
 <h4>Ojukwu Somkene Ifechukwu</h4>
-<h4>Fullstack software developer</h4>
+<h6>Fullstack software developer</h6>
 
 
 <div>

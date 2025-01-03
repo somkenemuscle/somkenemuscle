@@ -2,7 +2,7 @@
 
 
 
-<h4 color='grey'>FULL-STACK DEVELOPER</h4>
+<h6>FULL-STACK DEVELOPER</h6>
 <div>
 Yeppp!!!, this is me , full-stack developer ✨ by day, full-stack developer by night ✨
     

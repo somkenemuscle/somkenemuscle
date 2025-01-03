@@ -1,7 +1,5 @@
 <h4>Ojukwu Somkene Ifechukwu</h4>
 <h6>Fullstack software developer</h6>
-
-
 <div>
 Yeppp!!!, this is me , full-stack developer ✨ by day, full-stack developer by night ✨
     

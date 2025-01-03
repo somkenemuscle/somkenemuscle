@@ -1,11 +1,11 @@
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Somkene+;" />
 </h1>
 
 <h3 align="center">Fullstack software developer</h3>
 
 
-<div align="center">
+<div>
 Yep, this is me , Full-stack developer ✨ by day, full-stack developer by night ✨
   
 I code, I debug, and I’m always learning (and laughing at my own bugs).
@@ -14,7 +14,7 @@ Coffee fuels the code, but passion for tech drives it. Currently diving into Web
 
  </div>
  
-<div align="center"> 
+<div> 
     <a href="https://somkene-ojukwu.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
@@ -29,9 +29,9 @@ Coffee fuels the code, but passion for tech drives it. Currently diving into Web
 
  <hr/>
  
-<h2 align="center">Technology Stack</h2>
+<h1>Technology Stack</h1>
 <br/>
-<div align="center">    
+<div>    
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgresql" width={100}/><br>
 </div>
 

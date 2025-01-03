@@ -2,7 +2,7 @@
 
 
 
-<h6>Fullstack Developer</h6>
+<h6>Ojukwu Somkene .I</h6>
 <div>
 Yeppp!!!, this is me , full-stack developer ✨ by day, full-stack developer by night ✨
     

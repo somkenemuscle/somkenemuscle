@@ -29,8 +29,7 @@ Coffee fuels the code, but passion for tech drives it. Currently diving into Web
 
  <hr/>
  
-<h3>Technology Stack</h3>
-<br/>
+<h4>Technology Stack</h4>
 <div>    
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgresql" width={100}/><br>
 </div>

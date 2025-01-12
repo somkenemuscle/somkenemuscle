@@ -6,7 +6,7 @@ I'm Somkene a Fullstack Developer based in Nigeria.
 <div></div>
 
 
-I Love art ✨, and programming allows me to merge artistry with problem-solving to create innovative solutions. 
+I Love art, and programming allows me to merge artistry with problem-solving to create innovative solutions. 
 With 4+ years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳.
 
 

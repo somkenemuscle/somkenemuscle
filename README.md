@@ -1,16 +1,11 @@
-
-
-
-
-<h6>Ojukwu Somkene Ifechukwu</h6>
+<h4>About Me</h4>
 <div>
-I love art ✨, and programming allows me to merge artistry with problem-solving to create innovative digital solutions. 
+Hi There 👋 , 
+I'm Somkene a Fullstack Developer based in Nigeria.
  
-I showcase this through technologies like React, Next.js, and Tailwind CSS for the frontend, while building scalable applications using Node.js,
-Express, and MongoDB for the backend.
+I Love art ✨, and programming allows me to merge artistry with problem-solving to create innovative solutions. 
 
 With 4+ years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳.
- 
 </div>
  
 <div> 
@@ -30,7 +25,7 @@ With 4+ years of experience as a Fullstack Developer, I view coding as a creativ
  
 <h4>Technology Stack</h4>
 <div>    
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgresql" width={80}/><br>
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgresql" width={80}/><br>
 </div>
 
 

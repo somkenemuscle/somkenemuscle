@@ -5,7 +5,12 @@
 <h6>Ojukwu Somkene Ifechukwu</h6>
 <div>
 I love art ✨, and programming allows me to merge artistry with problem-solving to create innovative digital solutions. 
-I showcase this through technologies like React, Next.js, and Tailwind CSS for the frontend, while building scalable applications using Node.js, Express, and MongoDB for the backend. With 4+ years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳."
+ 
+I showcase this through technologies like React, Next.js, and Tailwind CSS for the frontend, while building scalable applications using Node.js,
+Express, and MongoDB for the backend.
+
+With 4+ years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳.
+ 
 </div>
  
 <div> 

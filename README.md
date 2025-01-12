@@ -4,12 +4,9 @@
 
 <h6>Ojukwu Somkene Ifechukwu</h6>
 <div>
-Yeppp!!!, this is me , full-stack developer ✨ by day, full-stack developer by night ✨
-    
-I code, i debug, and i’m always learning (and laughing at my own bugs).
-
-Coffee fuels the code, but passion for tech drives it. Currently diving into Web3—because why not?
- </div>
+I love art ✨, and programming allows me to merge artistry with problem-solving to create innovative digital solutions. 
+I showcase this through technologies like React, Next.js, and Tailwind CSS for the frontend, while building scalable applications using Node.js, Express, and MongoDB for the backend. With 4+ years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳."
+</div>
  
 <div> 
     <a href="https://somkene-ojukwu.vercel.app/" target="_blank">

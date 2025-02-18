@@ -12,7 +12,7 @@ With 4 years of experience as a Fullstack Developer, I view coding as a creative
 
 
 
-Beyond coding, I enjoy video editing and content creation. It’s a creative outlet that allows me to bring ideas to life, push my artistic boundaries, and explore storytelling in unique ways
+Beyond coding, I enjoy video editing and content creation. It’s a creative outlet that allows me to bring ideas to life, push my artistic boundaries, and explore story telling in unique ways
 </div>
  
 <div> 

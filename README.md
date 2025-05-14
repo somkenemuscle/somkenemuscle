@@ -32,7 +32,9 @@ Beyond coding, I enjoy video editing and content creation. It’s a creative out
  
 <h4>Technology Stack</h4>
 <div>    
-<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgresql" width={80}/><br>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs" width={60}/><br>
+ <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" width={60}/>
+
 </div>
 
 

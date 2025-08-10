@@ -1,4 +1,4 @@
-<h4>Hi There 👋,</h4>
+<h4>Hi There 👋</h4>
 <div>
 I'm Somkene a Fullstack Developer based in Nigeria.
 

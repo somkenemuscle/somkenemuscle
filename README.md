@@ -1,6 +1,6 @@
 <h4>Hi there 👋</h4>
 <div>
-I am  Somkene a Fullstack Software Engineer based in Nigeria.
+I am  Somkene a Full stack Software Engineer based in Nigeria.
 
 
 <div></div>

@@ -1,16 +1,11 @@
-<h4>Hi there 👋</h4>
-<div>
-I am  Somkene a Full stack Software Engineer based in Nigeria.
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+
+I’m [**Ojukwu Somkene**](https://somkene-ojukwu.vercel.app/), a software engineer based in Lagos,Nigeria . I Love art, and programming allows me to merge artistry with problem solving to create innovative solutions. With 4 years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳 .
 
 
-<div></div>
-
-
-I Love art, and programming allows me to merge artistry with problem solving to create innovative solutions. 
-With 4 years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳 .
-
-
-
+**My Specialization 😚:**
+- React, Nextjs, Tailwind, Javscript, TypeScript
+- Nodejs, ExpressJs, MongoDB, SQL, Docker
 
 Beyond coding, I enjoy video editing and content creation. It’s a creative outlet that allows me to bring ideas to life, push my artistic boundaries, and explore story telling in unique ways.
 </div>
@@ -25,7 +20,6 @@ Beyond coding, I enjoy video editing and content creation. It’s a creative out
   <a href="https://www.linkedin.com/in/somkene-ojukwu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
 </div>
 
 

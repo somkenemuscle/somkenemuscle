@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m [**Ojukwu Somkene**](https://somkene-ojukwu.vercel.app/), a software engineer based in Lagos,Nigeria . I Love art, and programming allows me to merge artistry with problem solving to create innovative solutions. With 4 years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳 .
+I’m [**Ojukwu Somkene**](https://somkene-ojukwu.vercel.app/), a software engineer based in lagos, nigeria . I Love art, and programming allows me to merge artistry with problem solving to create innovative solutions. With 4 years of experience as a Fullstack Developer, I view coding as a creative space where I can innovate and bring my ideas to life 🥳 .
 
 
 **My Specialization 😚:**

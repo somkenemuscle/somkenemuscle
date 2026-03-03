@@ -12,7 +12,7 @@ I love art, and programming allows me to merge artistry with problem solving to 
 
 ---
 
-**Beyond code** , I enjoy video editing and content creation which is a creative outlet that lets me explore storytelling, push artistic boundaries, and bring ideas to life in unique ways.
+Beyond code , I enjoy video editing and content creation which is a creative outlet that lets me explore storytelling, push artistic boundaries, and bring ideas to life in unique ways.
 
 ---
 

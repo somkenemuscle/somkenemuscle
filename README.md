@@ -8,7 +8,7 @@ I love art, and programming allows me to merge artistry with problem solving to 
 
 **Specialization**
 
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind` `Node.js` `Express.js` `MongoDB` `SQL` `Docker`
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind` `Golang` `Node.js` `Express.js` `MongoDB` `SQL` `Docker` 
 
 ---
 

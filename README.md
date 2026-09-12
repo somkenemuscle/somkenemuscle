@@ -1,23 +1,39 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="22"/>
+# Hey, I'm Dante 👋
 
-I am [**Ojukwu Somkene**](https://somkene-ojukwu.vercel.app/), a software engineer based in 🇳🇬 Lagos, Nigeria.
+📍 **Toronto, CA & San Francisco, US**   |  💻 **Product Engineer**
 
-I love art, and programming allows me to merge artistry with problem solving to create innovative solutions. With 4 years of experience as a software engineer , i view coding as a creative space where I can innovate and bring ideas to life 😚
+> Passionate about solving software problems and pushing boundaries with seamless designs. 10+ years of experience building products that serve millions of users, taking them from zero to one.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Opencode](https://img.shields.io/badge/-Opencode-00ADD8?style=flat-square&logo=go&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ---
 
-**Specialization** 
+## 🚀 Products I've Built
 
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind` `Golang` `Node.js` `Express.js` `MongoDB` `SQL` `Docker` 
+| Project | Description |
+| --------- | ------------- |
+| **[Port Kill](https://portkill.com)** | The easiest and fastest way to monitor and kill dev ports |
+| **[GPU Kill](https://gpukill.com)** | The easiest and fastest way to monitor and kill runaway GPU jobs |
+| **[BYO](https://usebyo.com)** | Let your customers use their own AI API keys. Drop-in vault and proxy; keys encrypted at rest, decrypted only for proxied calls, never stored raw on your backend |
+| **[OpenPreview](https://openpreview.co)** | Turn URLs, APIs, and command output into interactive terminal views. Docs browser, API inspector, log triage, and diff viewer in the terminal |
+| **[InPlace Translate](https://inplacetranslate.com)** | Translate text inside images without touching the art |
+| **[Undo](https://useundo.co)** | Give your files an undo button. See what changed, compare versions, and restore files when something goes wrong |
+| **[Boot](https://useboot.co)** | Your workspace, on every machine. Boot puts your entire code folder on any laptop or cloud agent in seconds |
+| **[Regraft](https://useregraft.com)** | Copy code from any git repo, rewrite it to fit your project, and still pull upstream updates later |
+| **[Playdoc](https://useplaydoc.com)** | Turn your game idea into a playable prototype. Describe a mechanic, level, or challenge and test it in minutes |
 
----
+<!-- --- -->
 
-Beyond code , I enjoy video editing and content creation which is a creative outlet that lets me explore storytelling, push artistic boundaries, and bring ideas to life in unique ways.
-
----
-
-**Let's Connect**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://somkene-ojukwu.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:somkeneoj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somkene-ojukwu/)
+<!-- <p align="center">
+  <a href="https://dantelex.com">🌐 dantelex.com</a> · 
+  <a href="https://twitter.com/dantelex">𝕏 Twitter</a>
+</p> -->

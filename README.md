@@ -24,15 +24,13 @@
 
 | Project | Description |
 | --------- | ------------- |
-| **[Port Kill](https://portkill.com)** | The easiest and fastest way to monitor and kill dev ports |
-| **[GPU Kill](https://gpukill.com)** | The easiest and fastest way to monitor and kill runaway GPU jobs |
-| **[BYO](https://usebyo.com)** | Let your customers use their own AI API keys. Drop-in vault and proxy; keys encrypted at rest, decrypted only for proxied calls, never stored raw on your backend |
-| **[OpenPreview](https://openpreview.co)** | Turn URLs, APIs, and command output into interactive terminal views. Docs browser, API inspector, log triage, and diff viewer in the terminal |
-| **[InPlace Translate](https://inplacetranslate.com)** | Translate text inside images without touching the art |
-| **[Undo](https://useundo.co)** | Give your files an undo button. See what changed, compare versions, and restore files when something goes wrong |
-| **[Boot](https://useboot.co)** | Your workspace, on every machine. Boot puts your entire code folder on any laptop or cloud agent in seconds |
-| **[Regraft](https://useregraft.com)** | Copy code from any git repo, rewrite it to fit your project, and still pull upstream updates later |
-| **[Playdoc](https://useplaydoc.com)** | Turn your game idea into a playable prototype. Describe a mechanic, level, or challenge and test it in minutes |
+| **[Alkademy Press](https://press.alkademy.com/)** | A multi-tenant journal and conference platform for managing submissions, peer review, editorial decisions, and multilingual publishing across workspaces. |
+| **[CloudDley](https://clouddley.com/)** | A self-hosted cloud platform for deploying applications, databases, and AI workloads on your own VPS — with simpler infrastructure management and lower cloud costs. |
+| **[Beauty Butler](https://www.mybeautybutler.com/)** | A beauty services platform with customer bookings, business management, concierge workflows, and administrative tools. Contributed to backend systems powering bookings and core platform functionality. |
+| **[AptechStats](https://aptechstats.vercel.app/)** | A football statistics platform built to track player performances, goals, assists, and other match statistics, with plans to evolve into a multi-tenant platform for schools and teams. |
+| **[AppVarsity](https://appvarsity.vercel.app/)** | A student platform built to make academic resources more accessible, providing past questions, project guidance, and other resources for Aptech students. Used by 100+ students. |
+| **[Celestique](https://celestique.vercel.app/)** | An e-commerce platform built for browsing products, managing a digital storefront, and delivering a modern online shopping experience. |
+| **[Retweet](https://retweet-frontend.vercel.app/)** | A Twitter-inspired social platform built to explore core social networking functionality including posts, interactions, feeds, and user-driven content. |
 
 <!-- --- -->
 

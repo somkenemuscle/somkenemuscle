@@ -24,10 +24,9 @@
 | **[Alkademy Press](https://press.alkademy.com/)** | A multi tenant journal and conference platform for managing submissions, peer review, editorial decisions, and multilingual publishing across workspaces. |
 | **[Clouddley](https://clouddley.com/)** | A self hosted cloud platform for deploying applications, databases, and AI workloads on your own VPS — with simpler infrastructure management and lower cloud costs. |
 | **[Beauty Butler](https://www.mybeautybutler.com/)** | A beauty services platform with customer bookings, business management, concierge workflows, and administrative tools. Contributed to backend systems powering bookings and core platform functionality. |
-| **[Aptechstats](https://aptechstats.vercel.app/)** | A football statistics platform built to track player performances, goals, assists, and other match statistics, with plans to evolve into a multi tenant platform for schools and teams. |
 | **[Appvarsity](https://appvarsity.vercel.app/)** | A student platform built to make academic resources more accessible, providing past questions, project guidance, and other resources for Aptech students. Used by 100+ students. |
 | **[Celestique](https://celestique.vercel.app/)** | An e-commerce platform built for browsing products, managing a digital storefront, and delivering a modern online shopping experience. |
-| **[Retweet](https://retweet-frontend.vercel.app/)** | A Twitter inspired social platform built to explore core social networking functionality including posts, interactions, feeds, and user driven content. |
+
 
 <!-- --- -->
 

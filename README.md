@@ -1,6 +1,6 @@
 # Hey, I'm Somkene 👋
 
-📍 **Lagos, Nigeria**   |  💻 **Software Engineer**
+💻 **Software Engineer**
 
 > 5+ years of experience building scalable, reliable products and solving problems that go beyond the code. I enjoy taking ideas from zero to production and working across backend systems, cloud infrastructure, and modern web technologies.
 

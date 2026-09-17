@@ -2,7 +2,7 @@
 
 💻 **Software Engineer**
 
-> 5+ years of experience building scalable, reliable products and solving problems that go beyond the code. I enjoy taking ideas from zero to production and working across backend systems, cloud infrastructure, and modern web technologies.
+> 5 years of experience building scalable, reliable products and solving problems that go beyond the code. I enjoy taking ideas from zero to production and working across backend systems, cloud infrastructure, and modern web technologies.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

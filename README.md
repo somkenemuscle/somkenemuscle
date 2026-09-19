@@ -23,7 +23,7 @@
 | --------- | ------------- |
 | **[Alkademy Press](https://press.alkademy.com/)** | A multi tenant journal and conference platform for managing submissions, peer review, editorial decisions, and multilingual publishing across workspaces. |
 | **[Alkademy Live Classroom](https://www.alkademy.com/solutions/)** | A browser based live classroom platform built with Zoom Video SDK, enabling real time virtual classes and interactive learning experiences without requiring users to leave the web application. |
-| **[Clouddley](https://clouddley.com/)** | A self hosted cloud platform for deploying applications, databases, and AI workloads on your own VPS — with simpler infrastructure management and lower cloud costs. |
+| **[Clouddley](https://clouddley.com/)** | A self hosted cloud platform for deploying applications, databases, and AI workloads on your own VPS, with simplified infrastructure management and lower cloud costs. |
 | **[Beauty Butler](https://www.mybeautybutler.com/)** | A beauty services platform with customer bookings, business management, concierge workflows, and administrative tools. Contributed to backend systems powering bookings and core platform functionality. |
 | **[Appvarsity](https://appvarsity.vercel.app/)** | A student platform built to make academic resources more accessible, providing past questions, project guidance, and other resources for Aptech students. Used by 100+ students. |
 | **[Celestique](https://celestique.vercel.app/)** | An e-commerce platform built for browsing products, managing a digital storefront, and delivering a modern online shopping experience. |
